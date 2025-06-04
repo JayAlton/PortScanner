@@ -13,18 +13,18 @@ Clone this repository:
 ```bash
 git clone https://github.com/JayAlton/PortScanner.git
 cd PortScanner
+```
 
-
-## 🚀 Usage
+🚀 Usage
 
 Run the scanner with:
-
+```bash
 python3 portscan.py <ipaddr>
-
+```
 Example:
-
+```bash
 python3 portscan.py 192.168.1.1
-##
+```
 The script will attempt to connect to a range of common ports on the specified IP address and report which ones are open.
 
 ## ⚠️ Disclaimer
